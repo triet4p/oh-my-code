@@ -27,6 +27,8 @@ Dự án không giới hạn ngôn ngữ, công nghệ hay lĩnh vực. Một ph
 
 Đây là tài liệu để tự triển khai, không phải 60 lời giải có sẵn. Thứ tự là gợi ý; một bài có thể cần nhiều hơn một ngày, tùy kinh nghiệm và thời gian thực hành. Nguồn private cần quyền truy cập tương ứng.
 
+Trước khi bắt đầu, xem [SETUP.md](SETUP.md) để cài công cụ chung và dependency cho từng mini-project.
+
 ## Nguồn tham khảo và giấy phép
 
 Với nội dung học từ dự án khác, nguồn tham khảo và ghi nhận tác giả cần được đặt gần phần nội dung liên quan. Việc viết lại hoặc sử dụng code từ bên thứ ba phải tuân theo giấy phép và các yêu cầu ghi nhận của nguồn gốc.
