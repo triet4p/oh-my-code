@@ -1,2 +1,3 @@
 **/.python-version
 .vscode
+**/node_modules
